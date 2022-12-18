@@ -1,4 +1,3 @@
-## Faaaala Meus Amigos, 
 ## Este é o GitHub do Kenaz!
 
 
