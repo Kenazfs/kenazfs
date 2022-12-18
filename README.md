@@ -17,7 +17,6 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenazfs&layout=compact)](https://github.com/Kenazfs/github-readme-stats)
 
 <div align="center">
 
