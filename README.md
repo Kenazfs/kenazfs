@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Kenazfs">
-   <picture>
+    <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
@@ -13,11 +13,11 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true" />
-      </picture>
-  <picture>
- </a>
+    </picture>
+  </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenazfs&layout=compact)](https://github.com/Kenazfs/github-readme-stats)
 
 <div align="center">
 
