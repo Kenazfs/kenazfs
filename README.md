@@ -3,8 +3,28 @@
 
 <div align="center">
   <a href="https://github.com/Kenazfs">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kenazfs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    
+   <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true" />
+      </picture>
+         <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true" />
+  </picture>
   </a>
 </div>
 
