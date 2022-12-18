@@ -1,12 +1,11 @@
-## Este é o GitHub do Kenaz!
+# Este é o meu GitHub!
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/Kenazfs">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true&theme=random"
+        media="(prefers-color-scheme:random)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=Kenazfs&show_icons=true"
@@ -18,12 +17,12 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+<div align="left">
+  <p>Feito o com :heart:</p>
 </div>
