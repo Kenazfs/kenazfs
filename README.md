@@ -29,7 +29,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3380FF&size=35&left=true&vleft=true&width=1000&lines=Contador+de+Visitantes+:%29)](https://git.io/typing-svg)</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kenazfs}/count.svg" /></p> 
 <br>
 </div>
